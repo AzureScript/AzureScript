@@ -7,7 +7,7 @@ Till then, you can follow up with the basic compiler development over [here](htt
 
 -----
 
-#Credits
+### Credits
 
 The AzureScript initiative (Specs, COmpiler, etc.) is currently being maintained by [@Azure-Agst](https://github.com/Azure-Agst). In no particular order, I'd like to thank a few people for helping with the project:
 
